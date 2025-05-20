@@ -60,7 +60,7 @@ The E-Voting System modernizes the traditional voting process by leveraging tech
 ### Application Deployment
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/e-voting.git
+   git clone https://github.com/Jugendra6395/E-Voting.git
    ```
 2. Build the project using Maven:
    ```
@@ -94,11 +94,3 @@ The application follows the Model-View-Controller (MVC) architectural pattern:
 - Blockchain-based vote verification
 - Advanced analytics for voting patterns
 - Support for complex voting methods
-
-## License
-
-[Add your license information here]
-
-## Contributors
-
-[Add contributor information here] 
